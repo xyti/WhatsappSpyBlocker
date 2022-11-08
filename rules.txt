@@ -1,0 +1,95 @@
+! Title: WhatsappSpyBlocker
+! Author: xyti | https://github.com/xyti
+! Homepage: https://github.com/xyti/WhatsappSpyBlocker
+! License: MIT
+!
+! Hosts Last Updated: February 1st 2022
+! Whatsapp Usability: Usable, Last tested: February 1st 2022
+!
+! Issues:
+! api.whatsapp.com page is broken due to the blocking of static.xx.fbcdn.net
+! Google's reCaptcha in Instagram page is unclickable due to the blocking of static.xx.fbcdn.net
+!
+! Contact: xyti.dev [at] proton.me
+
+||graph.whatsapp.com^
+||privatestats.whatsapp.net^
+||graph.whatsapp.net^
+||crashlogs.whatsapp.net^
+
+||whatsapp.com/ajax/bz
+||whatsapp.com/logging/
+
+! Facebook hosts from Sinfonietta (https://github.com/Sinfonietta),
+! modified by StevenBlack (https://github.com/StevenBlack) and xyti (https://github.com/xyti)
+||facebook.com^
+||fbcdn.net^
+||tfbnw.net^
+||fbsbx.com^
+||facebook.net^
+||facebook.net.edgekey.net^
+||facebook.com.edgekey.net^
+||facebook.dk^
+||facebook.de^
+||facebook.es^
+||facebook.mx^
+||facebook-studio.com^
+||facebook-web-clients.appspot.com^
+||facebook.be^
+||facebook.fr^
+||facebook.is^
+||facebook.it^
+||facebook.jp^
+||facebook.nl^
+||facebook.no^
+||facebook.se^
+||facebook.us^
+||fb.com^
+||fb.me^
+||fbcallback.wechat.com^
+||fbcdn-creative-a.akamaihd.net^
+||fbcdn-photos-a.akamaihd.net^
+||fbcdn-photos-e-a.akamaihd.net^
+||fbcdn-profile-a.akamaihd.net^
+||fbcdn-sphotos-a-a.akamaihd.net^
+||fbcdn-sphotos-a.akamaihd.net^
+||fbcdn-sphotos-b-a.akamaihd.net^
+||fbcdn-sphotos-c-a.akamaihd.net^
+||fbcdn-sphotos-d-a.akamaihd.net^
+||fbcdn-sphotos-e-a.akamaihd.net^
+||fbcdn-sphotos-f-a.akamaihd.net^
+||fbcdn-sphotos-g-a.akamaihd.net^
+||fbcdn-sphotos-h-a.akamaihd.net^
+||fbcdn-video-a-a.akamaihd.net^
+||fbcdn-video-b-a.akamaihd.net^
+||fbcdn-video-c-a.akamaihd.net^
+||fbcdn-video-d-a.akamaihd.net^
+||fbcdn-video-e-a.akamaihd.net^
+||fbcdn-video-f-a.akamaihd.net^
+||fbcdn-video-g-a.akamaihd.net^
+||fbcdn-video-h-a.akamaihd.net^
+||fbcdn-video-i-a.akamaihd.net^
+||fbcdn-video-j-a.akamaihd.net^
+||fbcdn-video-k-a.akamaihd.net^
+||fbcdn-video-l-a.akamaihd.net^
+||fbcdn-video-m-a.akamaihd.net^
+||fbcdn-video-n-a.akamaihd.net^
+||fbcdn-video-o-a.akamaihd.net^
+||fbcdn-video-p-a.akamaihd.net^
+||fbcdn-vthumb-a.akamaihd.net^
+||fbexternal-a.akamaihd.net^
+||fbstatic-a.akamaihd.net^
+||fbcdn.com^
+||fbstatic.net^
+||freebasics.com^
+||internet.org^
+||fbsbx.com.online-metrix.net^
+||m.me^
+||messages-facebook.com^
+||messenger.com^
+||facebook.com.edgesuite.net^
+||thefacebook.com^
+! End of Facebook hosts from Sinfonietta (https://github.com/Sinfonietta),
+! modified by StevenBlack (https://github.com/StevenBlack) and xyti (https://github.com/xyti)
+
+! End of WhatsappSpyBlocker
